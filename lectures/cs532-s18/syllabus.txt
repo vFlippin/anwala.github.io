@@ -1,6 +1,6 @@
 CS 432/532: Introduction to Web Science 
 Spring 2018
-CRNs 25728, 25729
+CRNs 24600, 24601
 
 Instructor: Michael L. Nelson <mln@cs.odu.edu> 
 http://www.cs.odu.edu/~mln/ 
