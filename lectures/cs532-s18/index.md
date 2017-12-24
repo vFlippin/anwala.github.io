@@ -7,7 +7,7 @@ Time: Thursdays 5:45pm - 8:20pm
 
 Place: E&CS bldg, r. 2120
 
-[Syllabus](https://raw.githubusercontent.com/phonedude/cs532-s17/master/syllabus.txt)
+[Syllabus](syllabus.txt)
 
 ### Recommended Books
 * [Learning Python](http://shop.oreilly.com/product/9780596158071.do)
