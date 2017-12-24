@@ -1,11 +1,11 @@
 ### ODU CS 432/532 for Spring 2018.
 Instructor: [Alexander C. Nwala](http://www.cs.odu.edu/~anwala/) <anwala@cs.odu.edu> 
 
-Office Hours: Thursdays 3-5 and by appointment
+Office Hours: Mondays/Wednesdays 2-3 and by appointment
 
-Time: Thursdays 5:45pm - 8:20pm
+Time: Tuesdays 4:20pm - 7:00pm
 
-Place: E&CS bldg, r. 2120
+Place: Dragas Hall, r. 1102
 
 [Syllabus](syllabus.txt)
 
