@@ -19,9 +19,8 @@ Place: Dragas Hall, r. 1102
 * Slack - CS532S18
 
 ### Class Schedule (subject to change)
-* Week 1 - January 9 - [Web Science, Web Architecture](https://docs.google.com/presentation/d/1iqEp6SZgZ-P0IOUt80Gs1wpxKlO26glFSJipnHMMItY/edit?usp=sharing)
-* Week 2 - January 16 - [Introduction to Python](https://drive.google.com/file/d/1STgbu41oguLxmqoWh0vptu1bcBhHrkqC/view?usp=sharing) 
-------
+* Week 1 - January 9 : [Web Science, Web Architecture](https://docs.google.com/presentation/d/1iqEp6SZgZ-P0IOUt80Gs1wpxKlO26glFSJipnHMMItY/edit?usp=sharing)
+* Week 2 - January 16 : [Introduction to Python](https://drive.google.com/file/d/1STgbu41oguLxmqoWh0vptu1bcBhHrkqC/view?usp=sharing)
 * Week 3 - January 23 - Introduction to R (slides from: [Scott Ainsworth](http://www.cs.odu.edu/~sainswor/Teaching/R), [Frank McCown](http://www.harding.edu/fmccown/r/), [Martin Klein](http://www.cs.odu.edu/~mklein/cs796/lecture/)) 
 * Week 4 - January 30 - [Measuring and Archiving the Web](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-04-measure-archive.ppt)
 * Week 5 - February 6 - [Searching the Web](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-05-searching.ppt)
