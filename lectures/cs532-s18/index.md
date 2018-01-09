@@ -18,6 +18,9 @@ Place: Dragas Hall, r. 1102
 ### Class Email list
 * Slack - CS532S18
 
+### Git repository (for assignment submissions: fork and then clone)
+* https://github.com/anwala/anwala.github.io
+
 ### Class Schedule (subject to change)
 * Week 1 - January 9 : [Web Science, Web Architecture](https://docs.google.com/presentation/d/1iqEp6SZgZ-P0IOUt80Gs1wpxKlO26glFSJipnHMMItY/edit?usp=sharing)
 * Week 2 - January 16 : [Introduction to Python](https://drive.google.com/file/d/1STgbu41oguLxmqoWh0vptu1bcBhHrkqC/view?usp=sharing)
